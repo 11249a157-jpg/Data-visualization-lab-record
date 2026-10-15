@@ -1,4 +1,4 @@
-Experiment No. 3: Basic Visualization in R
+# Experiment No. 3: Basic Visualization in R
 Aim
 To create and display different types of data visualizations, including line graphs, bar charts, pie charts, scatter plots, and histograms using the R programming language.
 
