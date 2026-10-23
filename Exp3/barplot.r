@@ -1,4 +1,4 @@
-EXPERIMENT 3: BAR PLOT IN R
+EXPERIMENT 3: BAR PLOT .R
 
 AIM:
 To create a bar plot in R to represent and compare categorical data using rectangular bars.
