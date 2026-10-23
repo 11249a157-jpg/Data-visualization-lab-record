@@ -1,0 +1,62 @@
+EXPERIMENT 5: DATA VISUALIZATION USING ORANGE DATA MINING
+
+AIM:
+To visualize and analyze datasets using Orange Data Mining software by creating charts and exploring patterns in data.
+
+DESCRIPTION:
+Orange Data Mining is an open-source visual programming tool used for data analysis, machine learning, and data visualization. It provides a graphical interface where users can connect different widgets to perform data analysis without writing extensive code. Orange includes visualization widgets such as Scatter Plot, Box Plot, Distributions, and Line Plot. These widgets help users understand data patterns, relationships, distributions, and trends.
+
+APPLICATIONS:
+1. To visualize datasets using charts and graphs.
+2. To analyze relationships between numerical variables.
+3. To identify patterns and trends in data.
+4. To study the distribution of data values.
+5. To identify unusual values and outliers.
+6. To support data analysis and machine learning tasks.
+
+ALGORITHM:
+1. Start the Orange Data Mining application.
+2. Create a new workflow.
+3. Add the File widget to the workspace.
+4. Load the required dataset.
+5. Check the dataset and its attributes.
+6. Add a suitable visualization widget, such as Scatter Plot or Box Plot.
+7. Connect the File widget to the visualization widget.
+8. Select the required attributes for visualization.
+9. Observe and analyze the generated graph.
+10. Stop the process.
+
+PROGRAM / PROCEDURE:
+
+Orange Data Mining uses a visual workflow instead of a traditional programming script.
+
+Steps to visualize data using Orange:
+
+1. Open Orange Data Mining on your computer.
+2. Create a new workflow.
+3. Drag the File widget into the workspace.
+4. Double-click the File widget and browse for a CSV or Excel-compatible dataset supported by Orange.
+5. Load the dataset and verify the displayed data.
+6. Drag a Scatter Plot widget into the workspace.
+7. Connect the File widget to the Scatter Plot widget.
+8. Double-click Scatter Plot to open it.
+9. Select the attributes for the X-axis and Y-axis.
+10. Observe the scatter plot and identify patterns or relationships.
+11. You can also connect the File widget to other visualization widgets, such as Distributions or Box Plot, to explore the dataset in different ways.
+
+PROGRAM EXPLANATION:
+1. File Widget: Loads the dataset into Orange.
+2. Dataset: Contains rows representing records and columns representing attributes.
+3. Scatter Plot Widget: Displays the relationship between two selected attributes.
+4. Connection: Transfers the loaded dataset from one widget to another.
+5. X-axis: Represents the first selected attribute.
+6. Y-axis: Represents the second selected attribute.
+7. Distributions Widget: Shows the frequency distribution of attribute values.
+8. Box Plot Widget: Summarizes data distribution and helps identify potential outliers.
+9. Visualization: Helps users interpret the data and discover useful patterns.
+
+SAMPLE OUTPUT:
+A scatter plot is displayed in Orange Data Mining after loading the dataset and connecting the File widget to the Scatter Plot widget. The graph displays data points based on the selected X-axis and Y-axis attributes. The visualization helps identify patterns and relationships in the dataset.
+
+RESULT:
+Thus, data visualization was successfully performed using Orange Data Mining by loading a dataset, connecting widgets, and analyzing the generated graph.
